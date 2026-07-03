@@ -6,3 +6,6 @@ recomend to use with Litchfield studio, I use older build version.
 Addon appeare in N-panel as a COLMAP
 
 Tutorial: https://youtu.be/9Hm258qzFM0
+
+![Uploading Snímek obrazovky 2026-07-03 164354.png…]()
+
